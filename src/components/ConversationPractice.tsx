@@ -32,6 +32,7 @@ export const ConversationPractice = () => {
           name.includes('female') ||
           name.includes('woman') ||
           name.includes('girl') ||
+          name.includes('lady') ||
           name.includes('zira') ||
           name.includes('susan') ||
           name.includes('catherine') ||
@@ -39,6 +40,129 @@ export const ConversationPractice = () => {
           name.includes('victoria') ||
           name.includes('karen') ||
           name.includes('melissa') ||
+          name.includes('alice') ||
+          name.includes('emma') ||
+          name.includes('olivia') ||
+          name.includes('sophia') ||
+          name.includes('ava') ||
+          name.includes('isabella') ||
+          name.includes('mia') ||
+          name.includes('charlotte') ||
+          name.includes('amelia') ||
+          name.includes('harper') ||
+          name.includes('evelyn') ||
+          name.includes('abigail') ||
+          name.includes('emily') ||
+          name.includes('elizabeth') ||
+          name.includes('sofia') ||
+          name.includes('avery') ||
+          name.includes('ella') ||
+          name.includes('scarlett') ||
+          name.includes('grace') ||
+          name.includes('chloe') ||
+          name.includes('camila') ||
+          name.includes('aria') ||
+          name.includes('noah') ||
+          name.includes('liam') ||
+          name.includes('madison') ||
+          name.includes('luna') ||
+          name.includes('bella') ||
+          name.includes('lily') ||
+          name.includes('layla') ||
+          name.includes('zoe') ||
+          name.includes('nora') ||
+          name.includes('riley') ||
+          name.includes('hazel') ||
+          name.includes('violet') ||
+          name.includes('aurora') ||
+          name.includes('savannah') ||
+          name.includes('audrey') ||
+          name.includes('brooklyn') ||
+          name.includes('claire') ||
+          name.includes('skylar') ||
+          name.includes('lucy') ||
+          name.includes('paisley') ||
+          name.includes('everly') ||
+          name.includes('anna') ||
+          name.includes('caroline') ||
+          name.includes('nova') ||
+          name.includes('genesis') ||
+          name.includes('emilia') ||
+          name.includes('kennedy') ||
+          name.includes('maya') ||
+          name.includes('willow') ||
+          name.includes('kinsley') ||
+          name.includes('naomi') ||
+          name.includes('allison') ||
+          name.includes('gabriella') ||
+          name.includes('paris') ||
+          name.includes('adeline') ||
+          name.includes('hailey') ||
+          name.includes('gianna') ||
+          name.includes('kaitlyn') ||
+          name.includes('isabelle') ||
+          name.includes('sophie') ||
+          name.includes('cora') ||
+          name.includes('jade') ||
+          name.includes('piper') ||
+          name.includes('ivy') ||
+          name.includes('juniper') ||
+          name.includes('sienna') ||
+          name.includes('leilani') ||
+          name.includes('daisy') ||
+          name.includes('poppy') ||
+          name.includes('magnolia') ||
+          name.includes('rose') ||
+          name.includes('iris') ||
+          name.includes('wendy') ||
+          name.includes('tina') ||
+          name.includes('mary') ||
+          name.includes('sarah') ||
+          name.includes('jennifer') ||
+          name.includes('lisa') ||
+          name.includes('nancy') ||
+          name.includes('dorothy') ||
+          name.includes('betty') ||
+          name.includes('helen') ||
+          name.includes('sandra') ||
+          name.includes('donna') ||
+          name.includes('carol') ||
+          name.includes('ruth') ||
+          name.includes('sharon') ||
+          name.includes('michelle') ||
+          name.includes('laura') ||
+          name.includes('kimberly') ||
+          name.includes('deborah') ||
+          name.includes('dorothy') ||
+          name.includes('amy') ||
+          name.includes('angela') ||
+          name.includes('brenda') ||
+          name.includes('cortana') ||
+          name.includes('siri') ||
+          name.includes('alexa') ||
+          name.includes('helena') ||
+          name.includes('petra') ||
+          name.includes('vera') ||
+          name.includes('nicky') ||
+          name.includes('tracy') ||
+          name.includes('monica') ||
+          name.includes('jessica') ||
+          name.includes('ashley') ||
+          name.includes('brittany') ||
+          name.includes('amanda') ||
+          name.includes('stephanie') ||
+          name.includes('cynthia') ||
+          name.includes('kathleen') ||
+          name.includes('rebecca') ||
+          name.includes('rachel') ||
+          name.includes('carolyn') ||
+          name.includes('janet') ||
+          name.includes('maria') ||
+          name.includes('heather') ||
+          name.includes('diane') ||
+          name.includes('julie') ||
+          name.includes('joyce') ||
+          name.includes('virginia') ||
           lang.includes('en')
         );
       });
